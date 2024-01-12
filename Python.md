@@ -6,3 +6,4 @@ Projetos Finalizados:
 
 Projetos em andamento:
 - IAM (se tornará minha assistente virtual, um projeto para aplicar conhecimentos em ML, e IA);
+- Coursera (curso fullstack em python).
